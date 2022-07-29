@@ -40,7 +40,7 @@ aracılığı ile generate edilip tarayıcı üzerinde rapor görüntülenir.
 3.Petin silinmesi - DELETE
 4.Aynı ID ile petin aranması - GET
 
-# Silinen Petin listelenmediği görülmektedir.
+- Silinen Petin listelenmediği görülmektedir.
 
 
 
