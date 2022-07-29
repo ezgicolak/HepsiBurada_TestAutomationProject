@@ -1,0 +1,1 @@
+productList = "//li[@class=\"productListContent-item\"]"
