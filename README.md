@@ -1,7 +1,7 @@
 @Proje EzgiColak tarafından hazırlanmıştır.
 
 1) Kullanıcı girişi yapılarak sepete ürün eklenmesi
-#Projenin gereksinimleri:
+Projenin gereksinimleri:
  - Python yüklü olması.
  - pip yüklü olması ve yukarıda belirtilen librarylerin yüklü olması gerekmektedir.
     -> pip install selenium
@@ -10,7 +10,7 @@
     -> pip install webdriver_manager
  - Proje klasöründe bulunan Allure-2.18.1 içerisindeki 'bin' klasörü dosya yolunun sistem path kısmına eklenmesi.
 
-#Aşağıdaki komutlar "cmd" üzerinde sırasıyla derlendiğinde ilk olarak tarayıcı üzerinde testler gerçekleştirilip
+Aşağıdaki komutlar "cmd" üzerinde sırasıyla derlendiğinde ilk olarak tarayıcı üzerinde testler gerçekleştirilip
 "reports" klasörü üzerine ".json" formatında rapor dosyası yazılır sonrasında ise rapor dosyası allure server
 aracılığı ile generate edilip tarayıcı üzerinde rapor görüntülenir.
 
@@ -19,16 +19,16 @@ aracılığı ile generate edilip tarayıcı üzerinde rapor görüntülenir.
     - Rapor dosyasının servis edilmesi için gereken komut:
         -> allure serve reports/
 
-#Python dili ve PyCharm 2021.3 IDE kullanılarak hazırlanmıştır.
+Python dili ve PyCharm 2021.3 IDE kullanılarak hazırlanmıştır.
 
-#Selenium, behave, webdriver_manager, allure-behave ve allure frameworkleri kullanılmıştır.
+Selenium, behave, webdriver_manager, allure-behave ve allure frameworkleri kullanılmıştır.
 
-#BDD prensipleri doğrultusunda hazırlanmıştır.
+BDD prensipleri doğrultusunda hazırlanmıştır.
     -objects_repository klasörü web sitesine göre hiyerarşik olarak dizan edilmiş olup element xpath lerini içerir.
     -features klasörü satin_alma feature ve python dosyasını içerir.
     -reports klasörü koşu sonrası oluşan json formatındaki rapor dosyasını içerir.
 
-#Chrome ve Edge tarayıcıları için feature dosyası üzerinden parametrik çalışacak şekilde ayarlanmıştır.
+Chrome ve Edge tarayıcıları için feature dosyası üzerinden parametrik çalışacak şekilde ayarlanmıştır.
 
 2) Api testi yapılması
 
@@ -38,6 +38,6 @@ aracılığı ile generate edilip tarayıcı üzerinde rapor görüntülenir.
 3.Petin silinmesi - DELETE
 4.Aynı ID ile petin aranması - GET
 
-# Silinen Petin listelenmediği görülmektedir.
+Silinen Petin listelenmediği görülmektedir.
 
 
