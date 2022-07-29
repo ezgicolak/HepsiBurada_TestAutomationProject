@@ -35,10 +35,10 @@ aracılığı ile generate edilip tarayıcı üzerinde rapor görüntülenir.
 2) Api testi yapılması
 
 #Test adımları :
-1.Yeni pet eklenmesi - POST
-2.ID ye göre pet aranması - GET
-3.Petin silinmesi - DELETE
-4.Aynı ID ile petin aranması - GET
+1.Yeni pet eklenmesi - POST 
+2.ID ye göre pet aranması - GET 
+3.Petin silinmesi - DELETE 
+4.Aynı ID ile petin aranması - GET 
 
 - Silinen Petin listelenmediği görülmektedir.
 
